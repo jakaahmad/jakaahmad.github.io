@@ -1,0 +1,187 @@
+body {
+    background-image: url("https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148907305.jpg?t=st=1656868395~exp=1656868995~hmac=41360038178ebff088e9bae09e2e5103bed8f96c2d264bb1ae9f06074af87c05&w=740");
+}
+
+.header {
+    background-color: #1F2937;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.logodanlink {
+    display: flex;
+    justify-content: space-between;
+    font-size: 18px;
+}
+
+.ilink {
+    display: flex;
+    gap: 28px;    
+}
+
+.judul {
+    display: flex;
+    flex-direction: column;
+}
+
+a {
+    color: aliceblue;
+    text-decoration: none;
+}
+
+.daftaratas {
+    max-width: fit-content;
+    background-color: #00aeff;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.juduldangambar {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 150px;
+}
+
+h2 {
+    display: flex;
+    color: white;
+    font-size: 68px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    margin-bottom: 0ch;
+    margin-top: 0%;
+}
+
+h3 {
+    font-family: Georgia, 'Times New Roman';
+    font: 36px;
+    color: white;
+    margin-top: 0%;
+    margin-bottom: 2ch;
+    margin-right: 2ch;
+}
+
+.info1 {
+    display: flex;
+    justify-content: center;
+    font-size: 36px;
+    font-weight: bold;
+    color: #1F2937;
+}
+
+.info2 {
+    color: #1F2937;
+    font-family: Georgia;
+}
+
+.information {
+    font-family: Georgia, 'Times New Roman';
+    display: flex;
+    flex-direction: column;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.picinformation {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.textinformation {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.quotename {
+    display: flex;
+    flex-direction: column;
+    background-color: #E5E7EB;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.quote {
+    text-align: center;
+    font-style: italic;
+    font-size: 36px;
+    color: #1F2937;
+}
+
+.name {
+    text-align: end;
+    font-weight: bold;
+    font-size: 24px;
+    color: #1F2937;
+    margin-top: 24px;
+}
+
+.daftar {
+    display: flex;
+    flex-direction: column;
+    background-color: #E5E7EB;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.kotakbiru {
+    background-color: #3882f6;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.daftar1 {
+    color: white;
+    font-size: 25px;
+}
+
+.daftar2 {
+    font-size: 15px;
+}
+
+.daftaratas1{
+    background-color: #00aeff;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.footer {
+    display: block;
+    margin-top: 55px;
+    padding-bottom: 0%;
+    background-color: #1F2937;
+    color: white;
+    text-align: center;
+    font-size: 15px;
+    padding: 20px;
+}
+
+.foot {
+    font-family: 'Times New Roman', Times, serif;
+}
